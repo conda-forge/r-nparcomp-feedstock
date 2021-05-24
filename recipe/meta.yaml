@@ -39,7 +39,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=nparcomp
-  license: GPL
+  license: GPL-2.0-or-later
   summary: With this package, it is possible to compute nonparametric simultaneous confidence
     intervals for relative contrast effects in the unbalanced one way layout. Moreover,
     it computes simultaneous p-values. The simultaneous confidence intervals can be
